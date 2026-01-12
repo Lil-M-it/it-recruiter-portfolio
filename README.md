@@ -15,5 +15,5 @@ Specialized in SaaS, DevOps, Software Engineering and Product profiles.
 - 02-recruitment-process → hiring workflows and methodologies
 
 ## Contact
-LinkedIn: https://www.linkedin.com/in/TU-LINKEDIN
+LinkedIn: https://www.linkedin.com/in/lilit-makaryan-b9051915a/
 GitHub: https://github.com/Lil-M-it
